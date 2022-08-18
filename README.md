@@ -26,3 +26,7 @@ The graphical style is a large aspect of the game. Every wall was custom-made us
 
 
 Furthermore, the project was documented from the planning phase through to the testing phase.
+
+
+
+[A Level Project Documentation Final.docx](https://github.com/Lasrixx/HistoryIsAMaze/files/9375565/A.Level.Project.Documentation.Final.docx)
